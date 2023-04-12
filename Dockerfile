@@ -40,6 +40,5 @@ ENV SHELL=/bin/bash
 
 COPY . /
 RUN chmod +x /start.sh
-RUN chmod +x /web.sh
 
 ENTRYPOINT ["/start.sh"]
