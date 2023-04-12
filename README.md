@@ -50,3 +50,5 @@ A Normal Minecraft server using ngrok and docker to run on railway.app. with Bes
 > Join Our [Discord Server](https://discord.gg/7gKJWDxg55] Also.
 
 # Powered By XEpert
+
+# Get Best Paid hosting in cheap rate at > https://cloud.xepert.tech or https://discord.gg/ZjbQDcb3eb
