@@ -47,7 +47,7 @@ A Normal Minecraft server using ngrok and docker to run on railway.app. with Bes
 # Thanks
  > If you like the project then please give a star to motivate us and it will much helpful to us.
 
-> Join Our [Discord Server](https://discord.gg/7gKJWDxg55] Also.
+> Join Our [Discord Server](https://discord.gg/7gKJWDxg55) Also.
 
 # Powered By XEpert
 
