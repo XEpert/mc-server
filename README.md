@@ -10,7 +10,7 @@ A Normal Minecraft server using ngrok and docker to run on railway.app. with Bes
 
 3. GO to the line 80 where ngrok authtoken is written paste your ngrok token by replacing my ngrok token.
  > To get your token singup at ngrok and verify your account.
- > THen go to here > [Ngrok Token}(https://dashboard.ngrok.com/get-started/your-authtoken).
+ > THen go to here > [Ngrok Token](https://dashboard.ngrok.com/get-started/your-authtoken).
  > copy the token and paste replacing mine one.
  >  Note :- do not remove these letter in this edit :- ngrok authtoken.
  
