@@ -2,6 +2,16 @@
 
 A Normal Minecraft server using ngrok and docker to run on railway.app. with Best Ping and Best speed.
 
+# How can i change the version of Mc Server ?
+
+ > This mc server supports all mc server versions. Now how u will change the version of server?
+ > To change the server version follow the steps. :-
+ 
+1. Go to start.sh file.
+2. Go to line 26.
+3. Replace the download link of server version after `wget -O server.jar`.
+4. Just save the file and go on.
+
 # How to install ?
 
 1. Fork this github 
