@@ -1,6 +1,5 @@
 # Start from the code-server Debian base image
-FROM debian:bullseye
-
+FROM debian:bookworm
 
 
 
